@@ -1,2 +1,2 @@
-# SVG-Clock-
+# SVG-Clock
 SVG Clock 🕙
