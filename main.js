@@ -18,4 +18,4 @@ const hoursElement = document.getElementById("hour_hand");
     
     requestAnimationFrame(animate);
     
-    console.log("Real Time Clock by Sushil");
+    console.log("Real Time Clock by CodeWithSushil");
